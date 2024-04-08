@@ -1,0 +1,18 @@
+{
+    "name": "dudu",
+    "symbol": "DUDU",
+    "image": "https://raw.githubusercontent.com/Bluelinecorp/Solana/36aa934901d97b45fcb63a0476584964cebd7e0f/bubu.png",
+    "description": "Meme coin",
+    "extensions": {},
+    "tags": [
+        "Meme",
+        "FanToken",
+        "Tokenization"
+    ],
+    "creators": [
+        {
+            "address": "FJPjHxTUeEX42DurAgcMtCfxSrbaozKGuWh6HL96hjdT",
+            "share": 100
+        }
+    ]
+}
